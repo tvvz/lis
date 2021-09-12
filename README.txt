@@ -7660,14 +7660,4 @@ http://pfsv.io:80/movie/2OEj34/7BZr5U/62841.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQx0ryd2YJBwMS3RUGHiV7FP9Ex.jpg" group-title="Filmes | Comedia",Vizinhança do Barulho (1996)
 http://pfsv.io:80/movie/2OEj34/7BZr5U/62842.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg" group-title="Filmes | Acao",Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca (2004)
-http://pfsv.io:80/movie/2OEj34/7BZr5U/62843.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtX6TPhoNACLQOTOZmTxc5r4R67.jpg" group-title="Filmes | Legendados",Dogwashers [L]
-http://pfsv.io:80/movie/2OEj34/7BZr5U/62845.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twYROzuKox3JfvB9JagOXCr8UIQ.jpg" group-title="Filmes | Lancamentos",Legado Explosivo (2020)
-http://pfsv.io:80/movie/2OEj34/7BZr5U/62846.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RQ6LDA2NG97cxL2bLw1O2R2nkp.jpg" group-title="Filmes | Acao",O Justiceiro (2004)
-http://pfsv.io:80/movie/2OEj34/7BZr5U/62847.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg" group-title="Filmes | Lancamentos",Raya e o Último Dragão (2021)
-http://pfsv.io:80/movie/2OEj34/7BZr5U/62848.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpXRG5zPUT18IeYvCoC4zOscked.jpg" group-title="Filmes | 4K",Um Principe Em Nova York 2 4K [HDR]
-http://pfsv.io:80/movie/2OEj34/7BZr5U/62849.mp4
+
